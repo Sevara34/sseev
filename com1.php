@@ -6,5 +6,6 @@ $class=[
     'ghj',
     'sde',
     'wert',
-    'zxcv'
+    'zxcv',
+    'seva'
 ];
