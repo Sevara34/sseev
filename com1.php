@@ -4,5 +4,6 @@ $class=[
     'sdf',
     'asd',
     'ghj',
-    'sde'
+    'sde',
+    'wert'
 ];
