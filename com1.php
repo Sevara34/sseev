@@ -3,5 +3,6 @@
 $class=[
     'sdf',
     'asd',
-    'ghj'
+    'ghj',
+    'sde'
 ];
